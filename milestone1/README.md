@@ -48,3 +48,13 @@ This authentication module serves as the foundation for the PolicyNav project, w
 ## ▶ How to Run the Project
 
 1. Install required libraries:
+2. Run the Streamlit app:
+3. 
+3. Use ngrok to generate a public URL.
+
+4. Open the ngrok link in browser.
+
+
+## 🌐 Deployment
+
+The application is deployed using Ngrok to generate a public URL for demonstration purposes.
