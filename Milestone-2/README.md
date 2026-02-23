@@ -33,7 +33,7 @@ User interface refinements were implemented to improve clarity and usability.
 - Prevention of blank/space-only input
 
 <p align="center">
-  <img src="images/Readability.png" width="600">
+  <img src="Readability.png" width="600">
 </p>
 
 ---
