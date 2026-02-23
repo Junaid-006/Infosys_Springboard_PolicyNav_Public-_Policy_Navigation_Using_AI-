@@ -17,7 +17,7 @@ To enhance account recovery security, OTP verification was integrated into the F
 - Prevents unauthorized password changes
 
 <p align="center">
-  <img src="Images/Forgot Password OTP.png" width="600">
+  <img src="Forgot Password OTP.png" width="600">
 </p>
 
 ---
