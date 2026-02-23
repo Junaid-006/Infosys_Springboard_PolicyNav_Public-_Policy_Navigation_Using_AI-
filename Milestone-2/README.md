@@ -2,54 +2,38 @@
 
 ## 📌 Overview
 
-In this milestone, major security and usability improvements were implemented in the PolicyNav authentication system.
+This milestone focuses on improving the security and user experience of the PolicyNav authentication system.
 
 ---
 
-## 🔐 New Features Added
+## 🔐 Forgot Password with OTP Verification
 
-### ✅ OTP Verification in Signup
-- 6-digit OTP generated securely
+To enhance account recovery security, OTP verification was integrated into the Forgot Password workflow.
+
+### 🔒 Features:
+- Secure 6-digit OTP generation
 - Email-based verification
-- Prevents fake account creation
-
-### ✅ OTP Verification in Forgot Password
-- OTP required before resetting password
-- Increased account recovery security
-
-### ✅ Improved Input Validation
-- Prevents blank/space-only entries
-- Stronger password rules
-
-### ✅ UI & Readability Enhancements
-- Cleaner layout
-- Better button alignment
-- Improved feedback messages
-
----
-
-## 🖼️ Screenshots
-
-### 🔐 OTP Verification (Signup)
+- Password reset allowed only after OTP validation
+- Prevents unauthorized password changes
 
 <p align="center">
-  <img src="images/signup_otp.png" width="600">
+  <img src="Images/Forgot Password OTP.png" width="600">
 </p>
 
 ---
 
-### 🔁 Forgot Password OTP
+## 🎨 UI Readability Improvements
+
+User interface refinements were implemented to improve clarity and usability.
+
+### ✨ Enhancements:
+- Cleaner layout structure
+- Improved spacing and alignment
+- Better feedback messages
+- Prevention of blank/space-only input
 
 <p align="center">
-  <img src="images/forgot_otp.png" width="600">
-</p>
-
----
-
-### 🎨 UI Readability Improvements
-
-<p align="center">
-  <img src="images/readability.png" width="600">
+  <img src="images/Readability.png" width="600">
 </p>
 
 ---
@@ -58,24 +42,13 @@ In this milestone, major security and usability improvements were implemented in
 
 - Python
 - Streamlit
-- JWT Authentication
+- JWT
 - Bcrypt
 - SQLite
-- Email OTP System
-
----
-
-## 📂 Files Included
-
-- `app.py` – Main application file
-- `requirements.txt` – Dependencies
-- Screenshots of new features
+- Email-based OTP System
 
 ---
 
 ## 🎯 Outcome
 
-This milestone significantly improved:
-- Application security
-- User validation
-- Overall UI experience
+This milestone strengthened the application's security while improving the overall user experience and interface readability.
