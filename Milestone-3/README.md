@@ -37,7 +37,7 @@ Milestone 3 enhances PolicyNav into an **AI-powered policy assistant** by integr
 * Enhances explainability of results
 
 📸
-![Knowledge Graph](./knowledge_graph.png)
+![Knowledge Graph](./knowledge.png)
 
 ---
 
