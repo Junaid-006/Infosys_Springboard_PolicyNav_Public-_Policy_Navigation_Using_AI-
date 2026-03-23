@@ -47,9 +47,6 @@ Milestone 3 enhances PolicyNav into an **AI-powered policy assistant** by integr
 * Allows users to revisit past interactions
 * Improves usability and continuity
 
-📸
-![History](./images/history.png)
-
 ---
 
 ## ⚙️ How to Run
