@@ -258,38 +258,37 @@ After OTP-verified login, regular users land on their personal dashboard.
 ---
 ### 〰️ Dashboard
 
-![Dashboard](Milestone-4/images/dashboard.png)
+![Dashboard](images/dashboard.png)
 ### 🔐 Admin
 
-![Admin](Milestone-4/images/admin.png)
+![Admin](images/admin.png)
 
 ### 🧭 Pending Registrations
 
-![Pending Registration](Milestone-4/images/pending.png)
+![Pending](images/pending.png)
 
 ### 🔒 Admin Security Monitor
 
-![Admin Security Monitor](Milestone-4/images/admin_security_monitor.png)
+![Admin Security](images/admin_security_monitor.png)
 
 ### 🔁 User Activity
 
-![User Activity](Milestone-4/images/user_activity.png)
+![User Activity](images/user_activity.png)
 
 ### 🔍 Analytics Dashboard
 
-![Analytics Dashboard](Milestone-4/images/analytics_dashboard.png)
-![Analytics Dashboard2](Milestone-4/images/analytics_dashboard2.png)
+![Analytics](images/analytics_dashboard.png)
+![Analytics2](images/analytics_dashboard2.png)
 
 ### 🔐 Feedback
 
-![Feedback](Milestone-4/images/feedback_analysis.png)
-![WordCloud](Milestone-4/images/wordcloud.png)
-![Feedback Export](Milestone-4/images/feedback_analysis_export.png)
+![Feedback](images/feedback_analysis.png)
+![WordCloud](images/wordcloud.png)
+![Feedback Export](images/feedback_analysis_export.png)
 
 ### 🎯 Gamification
 
-![Gamification](Milestone-4/images/gamification.jpeg)---
-
+![Gamification](images/gamification.png)
 # Author
 
 **Infosys Springboard Virtual Internship – Batch 13** <br>
