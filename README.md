@@ -453,38 +453,37 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 ---
 ### 🔑 Login Page
 
-![Login Page](images/login.jpeg)
-
+![Login Page](Milestone-1/images/login.png)
 ### 〰️ Dashboard
 
-![Dashboard](images/profile_avatar.jpeg)
+![Dashboard](Milestone-4/images/dashboard.png)
 
 ### 🔐 Admin
 
-![Admin](images/admin.jpeg)
+![Admin](Milestone-4/images/admin.png)
 
 ### 🧭 Pending Registrations
 
-![Pending Registration](images/pending.jpeg)
+![Pending Registration](Milestone-4/images/pending.png)
 
 ### 🔒 Admin Security Monitor
 
-![Admin Security Monitor](images/admin_security_monitor.jpeg)
+![Admin Security Monitor](Milestone-4/images/admin_security_monitor.png)
 
 ### 🔁 User Activity
 
-![User Activity](images/user_activity.jpeg)
+![User Activity](Milestone-4/images/user_activity.png)
 
 ### 🔍 Analytics Dashboard
 
-![Analytics Dashboard](images/analytics_dashboard.jpeg)
-![Analytics Dashboard2](images/analytics_dashboard2.jpeg)
+![Analytics Dashboard](Milestone-4/images/analytics_dashboard.png)
+![Analytics Dashboard2](Milestone-4/images/analytics_dashboard2.png)
 
 ### 🔐 Feedback
 
-![Feedback](images/feedback_analysis.jpeg)
-![WordCloud](images/wordcloud.jpeg)
-![Feedback Export](images/feedback_analysis_export.jpeg)
+![Feedback](Milestone-4/images/feedback_analysis.png)
+![WordCloud](Milestone-4/images/wordcloud.png)
+![Feedback Export](Milestone-4/images/feedback_analysis_export.png)
 
 ### 📖 Readability Analyzer
 
