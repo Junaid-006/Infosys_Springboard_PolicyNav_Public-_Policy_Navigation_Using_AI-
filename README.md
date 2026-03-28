@@ -487,20 +487,16 @@ The SQLite database (`policynav_users.db`) contains the following tables:
 
 ### 📖 Readability Analyzer
 
-![Readability Analyzer](images/readability_analyzer.jpeg)
-
+![Readability Analyzer](Milestone-2/images/readability.png)
 ### 🧾 Summarization
 
-![Summarization](images/summarization.jpeg)
-
+![Summarization](Milestone-3/images/summarization.png)
 ### 🎯 Gamification
 
-![Gamification](images/gamification.jpeg)
-
+![Gamification](Milestone-4/images/gamification.png)
 ### 💹 Knowledge Graph
 
-![Knowledge Graph](images/knowledge_graph.jpeg)
----
+![Knowledge Graph](Milestone-3/images/knowledge_graph.png)---
 
 # Author
 
