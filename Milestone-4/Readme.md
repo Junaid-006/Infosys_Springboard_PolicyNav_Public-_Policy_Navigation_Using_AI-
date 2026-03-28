@@ -259,7 +259,6 @@ After OTP-verified login, regular users land on their personal dashboard.
 ### 〰️ Dashboard
 
 ![Dashboard](Milestone-4/images/dashboard.png)
-
 ### 🔐 Admin
 
 ![Admin](Milestone-4/images/admin.png)
