@@ -258,39 +258,38 @@ After OTP-verified login, regular users land on their personal dashboard.
 ---
 ### 〰️ Dashboard
 
-![Dashboard](../images/dashboard.png)
+![Dashboard](Milestone-4/images/dashboard.png)
 
 ### 🔐 Admin
 
-![Admin](../images/admin.png)
+![Admin](Milestone-4/images/admin.png)
 
 ### 🧭 Pending Registrations
 
-![Pending Registration](../images/pending.png)
+![Pending Registration](Milestone-4/images/pending.png)
 
 ### 🔒 Admin Security Monitor
 
-![Admin Security Monitor](../images/admin_security_monitor.png)
+![Admin Security Monitor](Milestone-4/images/admin_security_monitor.png)
 
 ### 🔁 User Activity
 
-![User Activity](../images/user_activity.png)
+![User Activity](Milestone-4/images/user_activity.png)
 
 ### 🔍 Analytics Dashboard
 
-![Analytics Dashboard](../images/analytics_dashboard.png)
-![Analytics Dashboard2](../images/analytics_dashboard2.png)
+![Analytics Dashboard](Milestone-4/images/analytics_dashboard.png)
+![Analytics Dashboard2](Milestone-4/images/analytics_dashboard2.png)
 
 ### 🔐 Feedback
 
-![Feedback](../images/feedback_analysis.png)
-![WordCloud](../images/wordcloud.png)
-![Feedback Export](../images/feedback_analysis_export.png)
+![Feedback](Milestone-4/images/feedback_analysis.png)
+![WordCloud](Milestone-4/images/wordcloud.png)
+![Feedback Export](Milestone-4/images/feedback_analysis_export.png)
 
 ### 🎯 Gamification
 
-![Gamification](../images/gamification.jpeg)
----
+![Gamification](Milestone-4/images/gamification.jpeg)---
 
 # Author
 
