@@ -258,34 +258,34 @@ After OTP-verified login, regular users land on their personal dashboard.
 ---
 ### 〰️ Dashboard
 
-![Dashboard](../images/profile_avatar.jpeg)
+![Dashboard](../images/dashboard.png)
 
 ### 🔐 Admin
 
-![Admin](../images/admin.jpeg)
+![Admin](../images/admin.png)
 
 ### 🧭 Pending Registrations
 
-![Pending Registration](../images/pending.jpeg)
+![Pending Registration](../images/pending.png)
 
 ### 🔒 Admin Security Monitor
 
-![Admin Security Monitor](../images/admin_security_monitor.jpeg)
+![Admin Security Monitor](../images/admin_security_monitor.png)
 
 ### 🔁 User Activity
 
-![User Activity](../images/user_activity.jpeg)
+![User Activity](../images/user_activity.png)
 
 ### 🔍 Analytics Dashboard
 
-![Analytics Dashboard](../images/analytics_dashboard.jpeg)
-![Analytics Dashboard2](../images/analytics_dashboard2.jpeg)
+![Analytics Dashboard](../images/analytics_dashboard.png)
+![Analytics Dashboard2](../images/analytics_dashboard2.png)
 
 ### 🔐 Feedback
 
-![Feedback](../images/feedback_analysis.jpeg)
-![WordCloud](../images/wordcloud.jpeg)
-![Feedback Export](../images/feedback_analysis_export.jpeg)
+![Feedback](../images/feedback_analysis.png)
+![WordCloud](../images/wordcloud.png)
+![Feedback Export](../images/feedback_analysis_export.png)
 
 ### 🎯 Gamification
 
